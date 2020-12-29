@@ -1,11 +1,6 @@
-### 👋 Hi there, I'm Lin Trieu!
+# Hello, there! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-<a href="https://github.com/LinTrieu/LinTrieu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true&hide=contribs&theme=radical" />
-</a>
-
-Here are some ideas to get you started:
+My name is Lin Trieu and I'm a software engineer. I'm from the UK, living in London and currently working at @Paddle. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/LinTrieu/LinTrieu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true&hide=contribs&theme=radical" />
+</a>
