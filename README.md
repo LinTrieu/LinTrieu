@@ -1,6 +1,6 @@
-### Hello there, I'm Lin Trieu 👋
+### 👋 Hi there, I'm Lin Trieu!
 
-[![LinTrieu's github stats](https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![LinTrieu's github stats](https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
