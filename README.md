@@ -1,6 +1,6 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Lin Trieu and I'm a software engineer. I'm from London, UK and currently working as a backend engineer at [@Paddle](https://github.com/PaddleHQ). 
+My name is Lin Trieu and I'm a software engineer from London, UK. Currently working as a backend engineer at [@Paddle](https://github.com/PaddleHQ), and a freelance coding instructor with [CodeFirst: Girls](https://codefirstgirls.org.uk/) for Web Development and Data Programming.
 
 
 ### 💬 Contact 
