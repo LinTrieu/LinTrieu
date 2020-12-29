@@ -3,7 +3,7 @@
 My name is Lin Trieu and I'm a software engineer from London, UK. Currently working as a backend engineer at [@Paddle](https://github.com/PaddleHQ), and a freelance coding instructor with [@CodeFirstGirls](https://github.com/CodeFirstGirls).
 
 
-## 🛠 Key Technologies & Tools
+### 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
