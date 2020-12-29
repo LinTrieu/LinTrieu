@@ -10,5 +10,5 @@ My name is Lin Trieu and I'm a software engineer. I'm from London, UK and curren
 ### 📈 GitHub Stats
 
 <a href="https://github.com/LinTrieu/LinTrieu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true&hide=contribs&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true&hide=contribs&theme=gotham" />
 </a>
