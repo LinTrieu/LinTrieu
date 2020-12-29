@@ -1,4 +1,4 @@
-### Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Lin Trieu and I'm a software engineer. I'm from London, UK and currently working as a backend engineer at [@Paddle](https://github.com/PaddleHQ). 
 
