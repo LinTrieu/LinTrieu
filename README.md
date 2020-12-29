@@ -1,8 +1,11 @@
 ### 👋 Hi there, I'm Lin Trieu!
 
-[![LinTrieu's github stats](https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true&hide=contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintrieu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/LinTrieu/LinTrieu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true&hide=contribs&theme=radical" />
+</a>
+
+# [![LinTrieu's github stats](https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true&hide=contribs&theme=radical)]# (https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
