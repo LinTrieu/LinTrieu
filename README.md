@@ -22,5 +22,5 @@
 </a>
 
 
-### 💬 Connect with me 
+### 🤝 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/lin-trieu/)
