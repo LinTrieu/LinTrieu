@@ -1,4 +1,4 @@
-# Hello, there! I'm Lin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there! I'm Lin Trieu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 * 💻  My name is Lin Trieu and I'm currently a back-end Software Engineer with [@Paddle](https://github.com/PaddleHQ) 
 * 💬  A freelance coding instructor, currently teaching Web Development and Data Programming with [@CodeFirstGirls](https://github.com/CodeFirstGirls).
