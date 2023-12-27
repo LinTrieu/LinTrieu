@@ -1,6 +1,6 @@
 # Hello there! I'm Lin Trieu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* 💻   My name is Lin Trieu and I am a Backend Software Engineer, with over four years of experience working in Go and PHP.
+* 💻   My name is Lin Trieu and I am a Backend Software Engineer at [HER App](https://weareher.com/), with over four years experience working in Go and PHP.
 * 🎤   I am a freelance coding instructor, with experience teaching Web Development and Data Programming courses with [@CodeFirstGirls](https://codefirstgirls.com/about-us/).
 * 🇨🇦   Based in Vancouver, Canada 
 
