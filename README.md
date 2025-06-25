@@ -14,13 +14,5 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 
-
-### 📈 GitHub Stats
-
-<a href="https://github.com/LinTrieu/LinTrieu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lintrieu&count_private=true&show_icons=true&hide=contribs&theme=gotham" />
-</a>
-
-
 ### 🤝 Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/lin-trieu/)
